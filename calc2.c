@@ -52,5 +52,7 @@ int main() {
   
     Profit (d, p);
 
+    printf ("Test\n");
+
     return 0;
 }
