@@ -53,6 +53,7 @@ int main() {
     Profit (d, p);
 
     printf ("Test\n");
+    printf ("123\n");
 
     return 0;
 }
